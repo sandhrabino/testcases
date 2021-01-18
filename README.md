@@ -1,3 +1,3 @@
 # testcases
 
-Refer the (blog)[https://sandrabeme.wordpress.com] 
+Refer the [blog](https://sandrabeme.wordpress.com) 
