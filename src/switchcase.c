@@ -7,19 +7,19 @@ int main(){
 	scanf("%d", &n);
 	switch(n){
 		case 1: 
-			printf("n+n");
+			printf("%d", n+n);
 			break;
 		case 2:
-			printf("n-n");
+			printf("%d", n-n);
 			break;
 		case 3:
-			printf("n*n");
+			printf("%d", n*n);
 			break;
 		case 4:
-			printf("n/n");
+			printf("%d", n/n);
 			break;
 		case 5:
-			printf("n");
+			printf("%d", n);
 			break;
 		default: 
 			break;
